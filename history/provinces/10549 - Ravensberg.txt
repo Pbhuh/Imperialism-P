@@ -2,8 +2,8 @@
 #Region - Germany
 #Area - Westphalia
 
-owner = REB
-controller = REB
+owner = RVB
+controller = RVB
 culture = hannoverian
 religion = catholic
 trade_goods = livestock
@@ -13,7 +13,7 @@ base_production = 2
 base_manpower = 2 
 hre = yes
 is_city = yes
-add_core = RED
+add_core = RVB
 
 discovered_by = western
 discovered_by = muslim

@@ -2,8 +2,8 @@
 #Region - Germany
 #Area - Westphalia
 
-owner = REB
-controller = REB
+owner = BNT
+controller = BNT
 culture = hannoverian
 religion = catholic
 trade_goods = cloth
@@ -13,7 +13,7 @@ base_production = 2
 base_manpower = 2
 is_city = yes
 hre = yes
-add_core = REB
+add_core = BNT
 
 discovered_by = western
 discovered_by = muslim
