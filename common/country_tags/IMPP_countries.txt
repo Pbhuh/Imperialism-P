@@ -1,4 +1,5 @@
-#New tags for the low countries
-STS = "countries/Strassburg.txt"
-TUL = "countries/Toul.txt"
-STV = "countries/Stavelot.txt"
+#New tags for germany
+BNT = "countries/Bentheim.txt"
+RVB = "countries/Ravensberg.txt"
+HLD = "countries/Hildesheim.txt"
+ZWB = "countries/Zweibrucken.txt"

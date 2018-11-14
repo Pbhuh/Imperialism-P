@@ -4555,7 +4555,7 @@ luxemburg_liege_area = { 93 10504 10512 10528 } #Liege now
 artesia_area = { 87 88 3065 10524 10527 } #artois and french flanders
 
 #North Germany
-muenster_area = { 56 86 2973 10509 }
+muenster_area = { 56 86 2973 10509 10548}
 neumark_area = { 
 	color = { 234 232 44 } 
 	49 2969 10534	#cut 50 60 1763
@@ -4563,12 +4563,15 @@ neumark_area = {
 mittelmark_area = { 51 1759 3216 50 2993 }
 mecklenburg_area = { 46 2996 3217 10531 10532 }
 weser_area = { 54 55 1874 2971 44 10529 }
-lower_saxony_area = { 53 3215 57 1758 10530 }
+lower_saxony_area = { 53 3215 57 1758 10530 10550 }
 vorpommern_area = { 47 2994 10516 10533 } #2993  
 holstein_area = { 45 1775 1857 4141 10535 }
 north_rhine_area = { 84 85 2975 3199 3200 3292 10510 }
-lower_rhineland_area = { 80 1760 3198 83 3201 }
-lausitz_area { 60 1763 }
+lower_rhineland_area = { 80 1760 3198 83 3201 10561 }
+lausitz_area { 60 1763 10554 10555 }
+south_saxony_area = { 59 61 62 2965 10552 }
+thuringia_area = { 63 3211 3213 3214 10551 }
+westphalia_area = { 82 2972 3202 3203 10549 }
 
 #South Germany
 upper_rhineland_area = { 72 74 } #Baden
@@ -4577,6 +4580,11 @@ carinthia_area = { #3
 	color = { 46 217 110 }
 129 3050 }
 inner_austria_area = { 128 132 1863 }
+palatinate_area = { 77 78 1761 3207 3208 10557 10560 }
+lower_swabia_area = { 70 1872 3204 3206 10556 10558 } #will reform this into swabische hall  #removed 71
+#add in wurtenberg
+#(incl Ansbach/Schwabishe Hall)
+franconia_area = { 66 67 79 3212 10553 71 } #included ansbach
 
 #France
 savoy_dauphine_area = { 205 3046 10092 10093 10539 }
