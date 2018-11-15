@@ -10558,10 +10558,10 @@ province;red;green;blue;x;x;
 10557;63;68;169;Gotha;
 10558;83;88;170;Meissen;
 10559;103;108;171;Schweinfurt;
-10560;123;128;172;G?rlitz;
-10561;143;148;173;L?bben;
+10560;123;128;172;Görlitz;
+10561;143;148;173;Lübben;
 10562;183;188;175;Worms;
-10563;243;248;178;Zweibr?cken;
+10563;243;248;178;Zweibrücken;
 10564;3;8;179;Eifel;
 10565;22;28;180;Halberstadt;
 10566;41;48;181;Dannenberg;
@@ -10574,8 +10574,8 @@ province;red;green;blue;x;x;
 10573;79;88;183;Westergo;
 10574;98;108;184;Groningen;
 10575;117;128;185;Dordrecht;
-10576;163;168;174;F?rstenberg; #extra room for schwaben rework
-10577;203;208;176;T?bingen; #cut for now
+10576;163;168;174;Fürstenberg; #extra room for schwaben rework
+10577;203;208;176;Tübingen; #cut for now
 10578;223;228;177;Bregenz; #tirol
 10579;103;108;197;IRreserved486;
 10580;123;128;198;IRreserved487;
