@@ -4432,10 +4432,6 @@ true_north_atlantic_sea_area = {
 #Imperialism Reinvigorated			   #
 ########################################
 
-#
-#SEMI FIX FOR EUROPE - PETRUS DONT BOTHER 
-#
-
 #Random European Changes
 wallonia_area = { 91 1743 1866 10514 10521 } #currently Hainaut
 flanders_area = { 90 1865 3064 10507 10513 }
@@ -4456,6 +4452,7 @@ artesia_area = { 87 88 3065 10524 10527 } #artois and french flanders
 
 #North Germany
 muenster_area = { 56 86 2973 10509 10548}
+westphalia_area = { 82 2972 3202 3203 10549 }
 neumark_area = { 
 	color = { 234 232 44 } 
 	49 2969 10534 }	#cut 50 60 1763
@@ -4468,27 +4465,27 @@ holstein_area = { 45 1775 1857 4141 10535 }
 north_rhine_area = { 84 85 2975 3199 3200 3292 10510 }
 lower_rhineland_area = { 80 1760 3198 83 3201 10561 }
 lausitz_area { 60 1763 10554 10555 }
-south_saxony_area = { 59 61 62 2965 10552 }
-thuringia_area = { 63 3211 3213 3214 10551 }
-westphalia_area = { 82 2972 3202 3203 10549 }
+south_saxony_area = { 61 62 2965 10552 } #meissen
+thuringia_area = { 63 3211 3213 10551 }
+northern_saxony_area = { color = { 229 20 20 }
+	52 58 59 2964 3214 } #3 (Saxe-Altmark) Sachsen
 
 #South Germany
-upper_rhineland_area = { 72 74 } #Baden
+upper_rhineland_area = { 72 74 10556 10558 70 } #rename to badenwurttenberg
 alsace_area = {	75 1880 10518 10519 }
-carinthia_area = { #3
-	color = { 46 217 110 }
-129 3050 }
-inner_austria_area = { 128 132 1863 }
+carinthia_area = { color = { 46 217 110 }
+129 3050 } #renamed to carniola
+inner_austria_area = { 128 132 1863 1768 } #styria-carinthia
 palatinate_area = { 77 78 1761 3207 3208 10557 10560 }
-lower_swabia_area = { 70 1872 3204 3206 10556 10558 } #will reform this into swabische hall  #removed 71
+lower_swabia_area = { 1872 3204 3206 } #will reform this into swabische hall  #removed 71
 #add in wurtenberg
 #(incl Ansbach/Schwabishe Hall)
 franconia_area = { 66 67 79 3212 10553 71 } #included ansbach
+tirol_area = { 73 3053 10559 } #Trient ought to be added for historical accuracy
 
 #France
 savoy_dauphine_area = { 205 3046 10092 10093 10539 }
 dauphine_area = { 203 204 3089 10538 10544 }
-lorraine_area = { 187 188 189 3069 10517 10522 10523 10525 }
 toulouse_area = { 196 198 3084 4112 10543}
 bourgogne_area = { 
 	color = { 144 0 32 }
@@ -4498,14 +4495,14 @@ picardy_area = { 89 10508 10511 10515 }
 ile_de_france_area = { 182 183 4388 10503 10537 }
 loire_area = { #4
 	color = { 231 143 5 }
-	179 184 3075 4389 10502	
-}
+	179 184 3075 4389 10502	}
 anjou_area = { 177 178 }
 languedoc_area = { 200 2753 3085 4391 10546 }
 provence_area = { 201 202 2991 3090 10541 10542 }
 poitou_area = {	180 3077 4386 4111 10545 }
 normandy_area = { 167 168 1879 3073 4385 3110 10547 }
-
+lorraine_meuse_area = { 187 10517 10525 3069 }
+lorraine_area = { 188 189 10522 10523 }
 
 ############################
 #Start proper areas

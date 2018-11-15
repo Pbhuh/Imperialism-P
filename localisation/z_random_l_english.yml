@@ -1,4 +1,35 @@
 ﻿l_english:
+ #First changes, Still not sure about these, but I feel they are more appropriate
+ #Localisation Changes for IR & BT: Revisio Petrus
+ 
+ ##currently dutch localisation english down below
+ PROV99:0 "Arnhem" #City is more prestigious than the nature/area of Veluwe
+ PROV1742:0 "Limburg"
+ PROV4383:0 "Den Haag"
+ PROV4392:0 "Auxerrois"
+ PROV_ADJ90:0 "Vlaamse"
+ PROV_ADJ92:0 "Brabantse"
+ PROV_ADJ99:0 "Arnhemse"
+ PROV_ADJ1742:0 "Limburgse"
+ PROV_ADJ4383:0 "Haagse"
+ PROV_ADJ4392:0 "Auxerreian"
+ 
+ #RENAMES IMP-P
+ PROV75:0 "Lower Elsass"
+ PROV_ADJ75:0 "Lower Elsasser"
+ 
+ #PROV_ADJ90:0 "Flemish"
+ #PROV_ADJ92:0 "Brabantian"
+ #PROV_ADJ99:0 "Arnhemer"
+ #PROV_ADJ4383:0 "Haager"
+ #PROV_ADJ3063:0 "Gelders"
+ #netherlands_area:0 "Holland"
+ #netherlands_area_name:0 "Holland"
+ #netherlands_area_adj:0 "Hollandish" 
+ #luxemburg_liege_area: "Luxemburg"
+ #luxemburg_liege_area_name: "Luxemburg"
+ #luxemburg_liege_area_adj: "Luxemburgish"
+ 
  #cultures
  meuse_rhenish:0 "Meuse Rhenish"
  central_frankish:0 "Central Frankish"
@@ -9,48 +40,7 @@
  desc_ijssel_estuary_modifier:0 "Controlling the IJssel River Mouth strengthens our hold of the trade in the region."
  rhine_estuary_modifier:0 "Rhine Delta"
  desc_rhine_estuary_modifier:0 "Controlling the Rhine Delta strengthens our hold of the trade in the region and its historical importance has made its local populace very adept at naval work."
- #countries:
- ZEE:0 "Zeeland"
- ZEE_ADJ:0 "Zeelander"
- ARS:0 "Artois"
- ARS_ADJ:0 "Artoisan"
- LBG:0 "Limburg"
- LBG_ADJ:0 "Limburger"
- ZUT:0 "Zutphen"
- ZUT_ADJ:0 "Zutphense"
- TEC:0 "Tecklenburg"
- TEC_ADJ:0 "Tecklenburger"
- WLL:0 "Wallonie"
- WLL_ADJ:0 "Wallonian"
- VBE:0 "Vlaanderen"
- VBE_ADJ:0 "Vlaams"
- DOO:0 "Doornik"
- DOO_ADJ:0 "Doornikse"
- FSK:0 "Freistadt Köln"
- FSK_ADJ:0 "Kölner"
- BOI:0 "Bouillon"
- BOI_ADJ:0 "Bouillonais"	
- NAM:0 "Namur"
- NAM_ADJ:0 "Namurian"
- #area and regions
- gambia_region:0 "Gambia"
- gambia_region_name:0 "Gambia"
- gambia_region_adj:0 "Gambian"
- amazonia_region:0 "Amazonia"
- amazonia_region_name:0 "Amazonia"
- amazonia_region_adj:0 "Amazonia"
- limburg_area:0 "Limburg"
- limburg_area_name:0 "Limburg"
- limburg_area_adj:0 "Limburgse"
- anjou_area:0 "Anjou"
- anjou_area_name:0 "Anjou"
- anjou_area_adj:0 "Angevin"
- artesia_area:0 "Artesia"
- artesia_area_name:0 "Artisia"
- artesia_area_adj:0 "Artisian"
  
- #oldfile copy
- l_english:
  #New Countries
  TUL:0 "Toul"
  TUL_ADJ:0 "Toulic"
@@ -58,6 +48,14 @@
  STS_ADJ:0 "Strassburger"
  STV:0 "Stavelot-Malmedy"
  STV_ADJ:0 "Stavelotian"
+ BNT:0 "Bentheim"
+ BNT_ADJ:0 "Bentheimer"
+ RVB:0 "Ravensberg"
+ RVB_ADJ:0 "Ravensberger"
+ HLD:0 "Hildesheim"
+ HLD_ADJ:0 "Hildesheim"
+ ZWB:0 "Zweibrücken"
+ ZWB_ADJ:0 "Zweibrücker"
  
  #new areas
  toulouse_area:0 "Toulouse"
@@ -71,19 +69,13 @@
  upper_rhineland_area_name:0 "Baden"
  upper_rhineland_area_adj:0 "Badener"
  
- #HRE 
- liege_area:0 "Liege"
- liege_area_name:0 "Liege"
- liege_area_adj:0 "Liege"
+ #HRE
  luxembourg_area:0 "Luxembourg"
  luxembourg_area_name:0 "Luxembourg"
  luxembourg_area_adj:0 "Luxembourg"
  alsace_area:0 "Elsass"
  alsace_area_name:0 "Elsass"
  alsace_area_adj:0 "Elsassian"
- upper_rhineland_area:0 "Baden"
- upper_rhineland_area_name:0 "Baden"
- upper_rhineland_area_adj:0 "Badener"
  limburg_area:0 "Limburg"
  limburg_area_name:0 "Limburg"
  limburg_area_adj:0 "Limburgse"
@@ -93,6 +85,9 @@
  netherlands_area:0 "Holland"
  netherlands_area_name:0 "Holland"
  netherlands_area_adj:0 "Hollandic"
+ upper_rhineland_area:0 "Baden-Württenberg"
+ upper_rhineland_area_name:0 "Baden-Württenberg"
+ upper_rhineland_area_adj:0 "Baden-Württenberger"
  #Switzerland
  grl_area:0 "Oderbund"
  grl_area_name:0 "Oderbund"
